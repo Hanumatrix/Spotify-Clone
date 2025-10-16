@@ -3,6 +3,11 @@
 
 ---
 
+![Spotify-Clone](image.png)
+
+
+---
+
 ## 🌟 Overview
 
 This project is a pure CSS front-end clone of Spotify’s web player, created to demonstrate the power of design and layout achievable with just HTML and CSS.  
