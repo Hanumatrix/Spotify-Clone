@@ -42,7 +42,7 @@ It features a modern, fully responsive UI including sidebar navigation, a main c
 
 Spotify-Clone/
 │
-├── index.html # Main HTML file
-├── style.css # CSS styles
-├── assets/ # Images & icons used in the design
-└── Screenshot.png # Preview of the project
+├── index.html # Main HTML file <br />
+├── style.css # CSS styles <br />
+├── assets/ # Images & icons used in the design <br />
+└── Screenshot.png # Preview of the project <br />
