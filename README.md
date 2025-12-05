@@ -41,7 +41,7 @@ It features a modern, fully responsive UI including sidebar navigation, a main c
 ## 📂 Folder Structure
 
 Spotify-Clone/ <br />
-│
+│ <br />
 ├── index.html # Main HTML file <br />
 ├── style.css # CSS styles <br />
 ├── assets/ # Images & icons used in the design <br />
